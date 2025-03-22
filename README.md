@@ -1,1 +1,1 @@
-# BDDAPIAutomation
+Running - mvn clean test
